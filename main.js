@@ -27,3 +27,6 @@ inpt.onchange = function(e) {
     inpt.classList.add('wid');
     data.val = e.target.value;
 };
+
+
+let one;
